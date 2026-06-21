@@ -1,0 +1,61 @@
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 10.18.10.3408]
+    Renderer: Intel(R) HD Graphics
+    Vendor:   Intel
+    VRAM:     64 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+desktop: 1366x768 59Hz; virtual: 1366x768 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-0309B810 (this message is harmless)
+Non platform assembly: data-03102008 (this message is harmless)
+Non platform assembly: data-03105280 (this message is harmless)
+Non platform assembly: data-031076D0 (this message is harmless)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 140.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+Platform assembly: G:\Users\-\Documents\New Unity Project\feras biginner_Data\Managed\Boo.Lang.dll (this message is harmless)
+the health 300
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+carhealth:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+the health 200
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+carhealth:HowIsHealth(Int32)
+carhealth:OnCollisionEnter(Collision)
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+the health 100
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+carhealth:HowIsHealth(Int32)
+carhealth:OnCollisionEnter(Collision)
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+the health 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+carhealth:HowIsHealth(Int32)
+carhealth:OnCollisionEnter(Collision)
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+carhealth:Kill()
+carhealth:HowIsHealth(Int32)
+carhealth:OnCollisionEnter(Collision)
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+

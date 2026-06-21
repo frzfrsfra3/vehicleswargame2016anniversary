@@ -1,0 +1,4 @@
+function OnCollisionEnter()
+{
+Destroy(gameObject);
+}
